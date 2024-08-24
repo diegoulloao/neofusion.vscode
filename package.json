@@ -2,7 +2,7 @@
   "name": "neofusion-theme",
   "displayName": "Neofusion Theme",
   "description": "Neofusion theme for vscode",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "diegoulloao",
   "repository": "https://github.com/diegoulloao/neofusion.vscode",
   "icon": "images/spellIcon.png",
