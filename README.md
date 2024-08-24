@@ -1,16 +1,87 @@
-# neofusion-theme README
+<p align="right">
+  <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="sponsor" />
+</p>
 
-## Working with Markdown
+<div align="center">
+    <h1>
+        <img src="https://i.ibb.co/5cjvRLW/neofusion-vscode-logo.jpg" width="110" />
+        <br />neofusion.vscode
+    </h1>
+</div>
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+<p align="center">
+    <img src="https://img.shields.io/badge/vscode-1e1e1e.svg?style=for-the-badge&logo=lintcode&logoColor=0078d4" alt="zsh-badge" />
+</p>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+<p align="center">
+    Neofusion theme for VS Code blending lava red and ice blue colors ✨
+</p>
 
-## For more information
+<p align="center">
+    <img src="https://i.ibb.co/4g8dF7D/neofusion-vscode.png" alt="neofusion" />
+</p>
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+# Getting the right diff colors ✅
 
-**Enjoy!**
+You may need to add the following lines to your `~/.gitconfig` file:
+
+```bash
+[color "diff"]
+  new = cyan
+```
+
+# Ports ⭐
+
+### `neofusion.nvim`
+
+Neovim theme version. [Check it out!](https://github.com/diegoulloao/neofusion.nvim)
+
+### `neofusion.iterm`
+
+iTerm2 theme version. [Check it out!](https://github.com/diegoulloao/neofusion.iterm)
+
+### `neofusion.alacritty`
+
+Alacritty theme version. [Check it out!](https://github.com/diegoulloao/neofusion.alacritty)
+
+### `neofusion.kitty`
+
+Kitty theme version. [Check it out!](https://github.com/diegoulloao/neofusion.kitty)
+
+### `neofusion.wezterm`
+
+WezTerm theme version. [Check it out!](https://github.com/diegoulloao/neofusion.wezterm)
+
+### `neofusion.winterm`
+
+Windows Terminal theme version. [Check it out!](https://github.com/diegoulloao/neofusion.winterm)
+
+### `neofusion.bat`
+
+Bat theme version [Check it out!](https://github.com/diegoulloao/neofusion.bat/)
+
+### `neofusion.fzf`
+
+FZF theme version [Check it out!](https://github.com/diegoulloao/neofusion.fzf/)
+
+### `neofusion.k9s`
+
+K9s theme version. [Check it out!](https://github.com/diegoulloao/neofusion.k9s)
+
+### `neofusion.sp`
+
+Spotify Player (Terminal) theme version [Check it out!](https://github.com/diegoulloao/neofusion.sp/)
+
+### `neofusion.posting`
+
+Posting theme version. [Check it out!](https://github.com/diegoulloao/neofusion.posting)
+
+### `neofusion-wallpapers`
+
+Beautiful wallpapers that match your setup. [Check available resolutions](https://github.com/diegoulloao/neofusion-wallpapers?tab=readme-ov-file)
+
+# Sponsors ❤️
+
+Check out our awesome sponsors!
+
+<!-- sponsors --><!-- sponsors -->
