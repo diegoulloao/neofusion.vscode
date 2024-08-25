@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-    <img src="https://i.ibb.co/cFTWyD4/neofusion-vscode.png" alt="neofusion" />
+    <img src="https://i.ibb.co/mbZFWFF/neofusion-vscode.png" alt="neofusion" />
 </p>
 
 # Getting the right diff colors ✅
